@@ -1,0 +1,17 @@
+{
+  "name": "basic-configuration",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Baby Step: Webpack Configuration",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo 'No test for you now'"
+  },
+  "keywords": [],
+  "author": {
+     "name": "Nur Rony",
+     "email": "pro.nmrony@gmail.com",
+     "website": "http://www.nmrony.info"
+  },
+  "license": "MIT"
+}
