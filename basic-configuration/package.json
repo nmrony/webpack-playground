@@ -5,13 +5,17 @@
   "description": "Baby Step: Webpack Configuration",
   "main": "main.js",
   "scripts": {
-    "test": "echo 'No test for you now'"
+    "test": "echo 'No test for you now'",
+    "build": "webpack"
   },
   "keywords": [],
   "author": {
-     "name": "Nur Rony",
-     "email": "pro.nmrony@gmail.com",
-     "website": "http://www.nmrony.info"
+    "name": "Nur Rony",
+    "email": "pro.nmrony@gmail.com",
+    "website": "http://www.nmrony.info"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^1.12.13"
+  }
 }
